@@ -211,16 +211,13 @@ footer{
     }
     .hero_image img{
         max-width: 80%;
-        border: 1px solid red;
     }
     
     .hero_content h1{
-        border: 1px solid red;
        font-size: 40px;
        padding-left: 40px;
     }
     .hero_content{
-        border: 1px solid pink;
         gap: 15px;
        
     }
